@@ -273,3 +273,7 @@ print(df)
 
 ### Drawbacks
 1. Currently, the script does not have a built-in mechanism to detect and handle synthesis or implementation failures.
+
+### References
+1. ``` https://github.com/aashrey1234/scripting-and-automation ``` by Aashrey Patel
+2. Some parts of this project were developed with assistance from ChatGPT by OpenAI.
