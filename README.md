@@ -172,3 +172,8 @@ update_compile_order -fileset sources_1
 close_project
 ```
 
+### Common Errors & Fixes
+1. Delete the modules from the result which you are not using as these can cause file do not exist error in python
+2. If running on windows make sure to add the following path in your path variables ``` C:\Xilinx\Vivado\2019.2\bin ```
+
+   
