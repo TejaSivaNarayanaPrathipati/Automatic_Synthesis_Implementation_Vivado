@@ -18,7 +18,6 @@ From these reports, we extract key parameters:
 
 ### Prerequisites
 
-System/server should have
 - **Vivado installed** (Tested on Vivado 2019.2)
 - **Python 3+ installed**
 - **TCL scripts placed correctly** in the repository
